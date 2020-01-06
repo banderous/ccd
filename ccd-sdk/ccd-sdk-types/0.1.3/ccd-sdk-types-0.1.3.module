@@ -1,0 +1,121 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "ccd-sdk",
+    "module": "ccd-sdk-types",
+    "version": "0.1.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.0.1",
+      "buildId": "dkhlxpqr4fdfndti5bmxmbmdoy"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "28.1-jre"
+          }
+        },
+        {
+          "group": "de.cronn",
+          "module": "reflection-util",
+          "version": {
+            "requires": "2.4.1"
+          }
+        },
+        {
+          "group": "net.jodah",
+          "module": "typetools",
+          "version": {
+            "requires": "0.6.1"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-annotations",
+          "version": {
+            "requires": "2.10.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ccd-sdk-types-0.1.3.jar",
+          "url": "ccd-sdk-types-0.1.3.jar",
+          "size": 27551,
+          "sha512": "82ddaa7da0ec86dc7c8e60fc480b94e780bbefdbfb970724043480a2f7ebc8128d2cfa16ba7fbe0593d572eccbe5f9ad10c5a5095f40ef42a37913bc199df5b5",
+          "sha256": "4dfad7efd617661cace31ef417fafc6e4d49b75e5531cb3e49585d93493efd59",
+          "sha1": "f89176eb2cfdec08190e3f760fee2d30164e1be4",
+          "md5": "6870929c0f173ec85c06a4a6798fe3b9"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "28.1-jre"
+          }
+        },
+        {
+          "group": "de.cronn",
+          "module": "reflection-util",
+          "version": {
+            "requires": "2.4.1"
+          }
+        },
+        {
+          "group": "net.jodah",
+          "module": "typetools",
+          "version": {
+            "requires": "0.6.1"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-annotations",
+          "version": {
+            "requires": "2.10.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ccd-sdk-types-0.1.3.jar",
+          "url": "ccd-sdk-types-0.1.3.jar",
+          "size": 27551,
+          "sha512": "82ddaa7da0ec86dc7c8e60fc480b94e780bbefdbfb970724043480a2f7ebc8128d2cfa16ba7fbe0593d572eccbe5f9ad10c5a5095f40ef42a37913bc199df5b5",
+          "sha256": "4dfad7efd617661cace31ef417fafc6e4d49b75e5531cb3e49585d93493efd59",
+          "sha1": "f89176eb2cfdec08190e3f760fee2d30164e1be4",
+          "md5": "6870929c0f173ec85c06a4a6798fe3b9"
+        }
+      ]
+    }
+  ]
+}
