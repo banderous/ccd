@@ -1,0 +1,163 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "ccd-sdk",
+    "module": "ccd-gen",
+    "version": "0.1.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.0.1",
+      "buildId": "cjhdtcgqwngjvpg2yyzlhslbou"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-lang3",
+          "version": {
+            "requires": "3.9"
+          }
+        },
+        {
+          "group": "org.objenesis",
+          "module": "objenesis",
+          "version": {
+            "requires": "3.1"
+          }
+        },
+        {
+          "group": "cglib",
+          "module": "cglib",
+          "version": {
+            "requires": "3.3.0"
+          }
+        },
+        {
+          "group": "net.jodah",
+          "module": "typetools",
+          "version": {
+            "requires": "0.6.1"
+          }
+        },
+        {
+          "group": "org.reflections",
+          "module": "reflections",
+          "version": {
+            "requires": "0.9.11"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.9.8"
+          }
+        },
+        {
+          "group": "ccd-sdk",
+          "module": "ccd-sdk-types",
+          "version": {
+            "requires": "0.1.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ccd-gen-0.1.4.jar",
+          "url": "ccd-gen-0.1.4.jar",
+          "size": 32258,
+          "sha512": "528ceeaf5a2fea5e1bcba7e24a7f2c6a17c44618cfeeb9d070574f6127899e7ed3cdaa07747eadfaaccd34ace192456261ddea03bc3511917579be49d8adde05",
+          "sha256": "42dfb7165c8a10f8fa4d969300edbf06923c71251087a1b6006a12dc4b1baa45",
+          "sha1": "aca4e6aeaf7e4200d7ca4710490b5c95f22fcaf7",
+          "md5": "f75452539edef0c590e89951626f4709"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-lang3",
+          "version": {
+            "requires": "3.9"
+          }
+        },
+        {
+          "group": "org.objenesis",
+          "module": "objenesis",
+          "version": {
+            "requires": "3.1"
+          }
+        },
+        {
+          "group": "cglib",
+          "module": "cglib",
+          "version": {
+            "requires": "3.3.0"
+          }
+        },
+        {
+          "group": "net.jodah",
+          "module": "typetools",
+          "version": {
+            "requires": "0.6.1"
+          }
+        },
+        {
+          "group": "org.reflections",
+          "module": "reflections",
+          "version": {
+            "requires": "0.9.11"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.9.8"
+          }
+        },
+        {
+          "group": "ccd-sdk",
+          "module": "ccd-sdk-types",
+          "version": {
+            "requires": "0.1.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ccd-gen-0.1.4.jar",
+          "url": "ccd-gen-0.1.4.jar",
+          "size": 32258,
+          "sha512": "528ceeaf5a2fea5e1bcba7e24a7f2c6a17c44618cfeeb9d070574f6127899e7ed3cdaa07747eadfaaccd34ace192456261ddea03bc3511917579be49d8adde05",
+          "sha256": "42dfb7165c8a10f8fa4d969300edbf06923c71251087a1b6006a12dc4b1baa45",
+          "sha1": "aca4e6aeaf7e4200d7ca4710490b5c95f22fcaf7",
+          "md5": "f75452539edef0c590e89951626f4709"
+        }
+      ]
+    }
+  ]
+}
