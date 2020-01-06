@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "dkhlxpqr4fdfndti5bmxmbmdoy"
+      "buildId": "zygmjd5uwbhyjf37dtn4nn5xlq"
     }
   },
   "variants": [
@@ -79,11 +79,11 @@
         {
           "name": "ccd-gen-0.1.3.jar",
           "url": "ccd-gen-0.1.3.jar",
-          "size": 32126,
-          "sha512": "8c9f61b055cbb4f305c378c2ad19a71a8006113602a3c0a96a1cac212f6aefcce289b46ff8e1e889ac8bd7ead316acbb0d2ae4a83a5598f19201767daccdfec6",
-          "sha256": "87c78bec4275ad9e9c7b9c6527afe054859a74cbe0385b864e69e3973a9262b8",
-          "sha1": "57eccc36a365fd632f23bd4b6de23c245e794111",
-          "md5": "60abe0455773acc50a13b01c03bb88ab"
+          "size": 32128,
+          "sha512": "ff3140b0870a62d0dd136e466d3b1ce2e81870c8a4c7251dc1043a886855d5978adfac5e68bb4c386aa7c51a5369f21b4569089294dec25f20e79d4db9d8116b",
+          "sha256": "c33a25583953cd049c977e2bb4fc0e80d0bf726837fd6057279d4192e2c1dfa",
+          "sha1": "c6df3c900fbc03c047a3d8bee1acf01fd2f005b9",
+          "md5": "11ce7edd9958c6692e7ce9a8857d8398"
         }
       ]
     },
@@ -151,11 +151,11 @@
         {
           "name": "ccd-gen-0.1.3.jar",
           "url": "ccd-gen-0.1.3.jar",
-          "size": 32126,
-          "sha512": "8c9f61b055cbb4f305c378c2ad19a71a8006113602a3c0a96a1cac212f6aefcce289b46ff8e1e889ac8bd7ead316acbb0d2ae4a83a5598f19201767daccdfec6",
-          "sha256": "87c78bec4275ad9e9c7b9c6527afe054859a74cbe0385b864e69e3973a9262b8",
-          "sha1": "57eccc36a365fd632f23bd4b6de23c245e794111",
-          "md5": "60abe0455773acc50a13b01c03bb88ab"
+          "size": 32128,
+          "sha512": "ff3140b0870a62d0dd136e466d3b1ce2e81870c8a4c7251dc1043a886855d5978adfac5e68bb4c386aa7c51a5369f21b4569089294dec25f20e79d4db9d8116b",
+          "sha256": "c33a25583953cd049c977e2bb4fc0e80d0bf726837fd6057279d4192e2c1dfa",
+          "sha1": "c6df3c900fbc03c047a3d8bee1acf01fd2f005b9",
+          "md5": "11ce7edd9958c6692e7ce9a8857d8398"
         }
       ]
     }
