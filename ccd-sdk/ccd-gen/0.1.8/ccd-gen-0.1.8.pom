@@ -48,7 +48,7 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>ccd-sdk</groupId>
+      <groupId>uk.gov.hmcts</groupId>
       <artifactId>ccd-sdk-types</artifactId>
       <version>0.1.8</version>
       <scope>compile</scope>

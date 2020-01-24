@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "wqi6cexmcfdgzi63stl7zg4sha"
+      "buildId": "beikd5egwrhajjqigb2h7wlqxe"
     }
   },
   "variants": [
@@ -68,7 +68,7 @@
           }
         },
         {
-          "group": "ccd-sdk",
+          "group": "uk.gov.hmcts",
           "module": "ccd-sdk-types",
           "version": {
             "requires": "0.1.8"
@@ -79,11 +79,11 @@
         {
           "name": "ccd-gen-0.1.8.jar",
           "url": "ccd-gen-0.1.8.jar",
-          "size": 32290,
-          "sha512": "4bfe5d5d7df23c92d0fd5d766949552cf90aba6cccc5beedc4f3242475cdb7ce9d0ee72a6fdc180e39f279e724c3b6eae89c350f42b793fbef6cb87c67cbed32",
-          "sha256": "b96c1e0c7af281938b8dc6f8476a8dc376fd8929336e74864636e374d8bd93ad",
-          "sha1": "a24e90d7d4c6207d24e14d3c27dc0fafb955ae0d",
-          "md5": "3e84ac1908375bb10f70bfd22c7491d1"
+          "size": 33787,
+          "sha512": "b2573e6cb735b1484505cb982b56f9bf8433dcd0731fbf62ba1b89112bad8b49dfc791871751f0f3a4a7ace2e0485017bf6156a835d8de46015e8cb5ad16233f",
+          "sha256": "a29f0ecb4dbc7d2054bcbe5ebb01306c18d0a3ff4da860894edfc21f6de7db65",
+          "sha1": "ae8cc085c99ac95d260478effd6c7bcc9c8d8614",
+          "md5": "d476b950985e185bf37c321f8e3b3983"
         }
       ]
     },
@@ -140,7 +140,7 @@
           }
         },
         {
-          "group": "ccd-sdk",
+          "group": "uk.gov.hmcts",
           "module": "ccd-sdk-types",
           "version": {
             "requires": "0.1.8"
@@ -151,11 +151,11 @@
         {
           "name": "ccd-gen-0.1.8.jar",
           "url": "ccd-gen-0.1.8.jar",
-          "size": 32290,
-          "sha512": "4bfe5d5d7df23c92d0fd5d766949552cf90aba6cccc5beedc4f3242475cdb7ce9d0ee72a6fdc180e39f279e724c3b6eae89c350f42b793fbef6cb87c67cbed32",
-          "sha256": "b96c1e0c7af281938b8dc6f8476a8dc376fd8929336e74864636e374d8bd93ad",
-          "sha1": "a24e90d7d4c6207d24e14d3c27dc0fafb955ae0d",
-          "md5": "3e84ac1908375bb10f70bfd22c7491d1"
+          "size": 33787,
+          "sha512": "b2573e6cb735b1484505cb982b56f9bf8433dcd0731fbf62ba1b89112bad8b49dfc791871751f0f3a4a7ace2e0485017bf6156a835d8de46015e8cb5ad16233f",
+          "sha256": "a29f0ecb4dbc7d2054bcbe5ebb01306c18d0a3ff4da860894edfc21f6de7db65",
+          "sha1": "ae8cc085c99ac95d260478effd6c7bcc9c8d8614",
+          "md5": "d476b950985e185bf37c321f8e3b3983"
         }
       ]
     }

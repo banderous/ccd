@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.0.1",
-      "buildId": "wqi6cexmcfdgzi63stl7zg4sha"
+      "buildId": "ecjyafx2jbc7te5skweyhw6544"
     }
   },
   "variants": [
@@ -58,11 +58,11 @@
         {
           "name": "ccd-sdk-types-0.1.8.jar",
           "url": "ccd-sdk-types-0.1.8.jar",
-          "size": 27653,
-          "sha512": "e7c5fb299508c8a2505274ee71baafd88be455badf3da5da972d47b5ef025c84a1e3b57c5b019eae08d174cf13ea4d0342ff925ecf54cb9f528c04fd827af23e",
-          "sha256": "5cf19f10d29073a513a0d2cae1bf7c1c97c95364ca910388d65efc2a1c6abf41",
-          "sha1": "5cb89538f54677485b0199fdfa0c6e756e951cbb",
-          "md5": "3d08955db19d2206a191f4b024115185"
+          "size": 28681,
+          "sha512": "591b0061e12502f0c8b72fd0f372e7ee39d44f9b185b60ffdcf2cc84fe8f50d6cf6db4a16f79ed12a73ec7beb9643c5feedd08bd53bfb604b5fe4a56dfe3d15a",
+          "sha256": "36dbf373251438230fcf64e0719d46e5b8cdc2e6fa5adc4f511e279da4311171",
+          "sha1": "930f8d8b717823da8764a7e7178deba2f2221929",
+          "md5": "845a2a5a8042e4c84152cc2f60b89d86"
         }
       ]
     },
@@ -109,11 +109,11 @@
         {
           "name": "ccd-sdk-types-0.1.8.jar",
           "url": "ccd-sdk-types-0.1.8.jar",
-          "size": 27653,
-          "sha512": "e7c5fb299508c8a2505274ee71baafd88be455badf3da5da972d47b5ef025c84a1e3b57c5b019eae08d174cf13ea4d0342ff925ecf54cb9f528c04fd827af23e",
-          "sha256": "5cf19f10d29073a513a0d2cae1bf7c1c97c95364ca910388d65efc2a1c6abf41",
-          "sha1": "5cb89538f54677485b0199fdfa0c6e756e951cbb",
-          "md5": "3d08955db19d2206a191f4b024115185"
+          "size": 28681,
+          "sha512": "591b0061e12502f0c8b72fd0f372e7ee39d44f9b185b60ffdcf2cc84fe8f50d6cf6db4a16f79ed12a73ec7beb9643c5feedd08bd53bfb604b5fe4a56dfe3d15a",
+          "sha256": "36dbf373251438230fcf64e0719d46e5b8cdc2e6fa5adc4f511e279da4311171",
+          "sha1": "930f8d8b717823da8764a7e7178deba2f2221929",
+          "md5": "845a2a5a8042e4c84152cc2f60b89d86"
         }
       ]
     }
