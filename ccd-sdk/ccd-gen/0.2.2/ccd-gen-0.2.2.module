@@ -1,0 +1,177 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "ccd-sdk",
+    "module": "ccd-gen",
+    "version": "0.2.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.0.1",
+      "buildId": "a2tv4qose5djdnykd7i3bbsdu4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-lang3",
+          "version": {
+            "requires": "3.9"
+          }
+        },
+        {
+          "group": "de.cronn",
+          "module": "reflection-util",
+          "version": {
+            "requires": "2.4.1"
+          }
+        },
+        {
+          "group": "org.objenesis",
+          "module": "objenesis",
+          "version": {
+            "requires": "3.1"
+          }
+        },
+        {
+          "group": "cglib",
+          "module": "cglib",
+          "version": {
+            "requires": "3.3.0"
+          }
+        },
+        {
+          "group": "net.jodah",
+          "module": "typetools",
+          "version": {
+            "requires": "0.6.1"
+          }
+        },
+        {
+          "group": "org.reflections",
+          "module": "reflections",
+          "version": {
+            "requires": "0.9.11"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.9.8"
+          }
+        },
+        {
+          "group": "uk.gov.hmcts",
+          "module": "ccd-sdk-types",
+          "version": {
+            "requires": "0.2.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ccd-gen-0.2.2.jar",
+          "url": "ccd-gen-0.2.2.jar",
+          "size": 36837,
+          "sha512": "89071df932d6c4b61f8e8cdb5ef63b21f0329581e63735ccc287157aac7a397641b9f5f1c3226fbf8f0e0f2a337f4803c4be6a76a0c09b4cc5bf6bc89bf05fa7",
+          "sha256": "66c84ef5b5d66b9dc612a7ebd016d19344e044c7edd8f370ee861b658b8e7351",
+          "sha1": "893826d98a250e644a339a3977a95196e22786fb",
+          "md5": "626bc81edc2461124a79c497aba7667c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.apache.commons",
+          "module": "commons-lang3",
+          "version": {
+            "requires": "3.9"
+          }
+        },
+        {
+          "group": "de.cronn",
+          "module": "reflection-util",
+          "version": {
+            "requires": "2.4.1"
+          }
+        },
+        {
+          "group": "org.objenesis",
+          "module": "objenesis",
+          "version": {
+            "requires": "3.1"
+          }
+        },
+        {
+          "group": "cglib",
+          "module": "cglib",
+          "version": {
+            "requires": "3.3.0"
+          }
+        },
+        {
+          "group": "net.jodah",
+          "module": "typetools",
+          "version": {
+            "requires": "0.6.1"
+          }
+        },
+        {
+          "group": "org.reflections",
+          "module": "reflections",
+          "version": {
+            "requires": "0.9.11"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.9.8"
+          }
+        },
+        {
+          "group": "uk.gov.hmcts",
+          "module": "ccd-sdk-types",
+          "version": {
+            "requires": "0.2.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ccd-gen-0.2.2.jar",
+          "url": "ccd-gen-0.2.2.jar",
+          "size": 36837,
+          "sha512": "89071df932d6c4b61f8e8cdb5ef63b21f0329581e63735ccc287157aac7a397641b9f5f1c3226fbf8f0e0f2a337f4803c4be6a76a0c09b4cc5bf6bc89bf05fa7",
+          "sha256": "66c84ef5b5d66b9dc612a7ebd016d19344e044c7edd8f370ee861b658b8e7351",
+          "sha1": "893826d98a250e644a339a3977a95196e22786fb",
+          "md5": "626bc81edc2461124a79c497aba7667c"
+        }
+      ]
+    }
+  ]
+}

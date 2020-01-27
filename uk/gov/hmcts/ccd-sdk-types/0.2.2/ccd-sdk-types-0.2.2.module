@@ -1,0 +1,79 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "uk.gov.hmcts",
+    "module": "ccd-sdk-types",
+    "version": "0.2.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.0.1",
+      "buildId": "a2tv4qose5djdnykd7i3bbsdu4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-annotations",
+          "version": {
+            "requires": "2.10.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ccd-sdk-types-0.2.2.jar",
+          "url": "ccd-sdk-types-0.2.2.jar",
+          "size": 29912,
+          "sha512": "3ecb6ae65bec37144e4a848879e0106e57d34f891790cf974a506d087f5deee414564b39e1bd74bf9d0fec83480e08a25e7789d3154f3e233bc5b8659983aab7",
+          "sha256": "acaead661e1c8ba80f9c3c7eb0871604f6bb8a75e03e93e88dc92b4cb426a2fb",
+          "sha1": "cfe7d1c932599020d4c3c40a05ee15a5527fa8c8",
+          "md5": "da232ef89d4dbf815261e87723bf6216"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-annotations",
+          "version": {
+            "requires": "2.10.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ccd-sdk-types-0.2.2.jar",
+          "url": "ccd-sdk-types-0.2.2.jar",
+          "size": 29912,
+          "sha512": "3ecb6ae65bec37144e4a848879e0106e57d34f891790cf974a506d087f5deee414564b39e1bd74bf9d0fec83480e08a25e7789d3154f3e233bc5b8659983aab7",
+          "sha256": "acaead661e1c8ba80f9c3c7eb0871604f6bb8a75e03e93e88dc92b4cb426a2fb",
+          "sha1": "cfe7d1c932599020d4c3c40a05ee15a5527fa8c8",
+          "md5": "da232ef89d4dbf815261e87723bf6216"
+        }
+      ]
+    }
+  ]
+}
