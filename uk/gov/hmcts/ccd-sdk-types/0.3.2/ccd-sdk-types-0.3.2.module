@@ -1,0 +1,79 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "uk.gov.hmcts",
+    "module": "ccd-sdk-types",
+    "version": "0.3.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.0.1",
+      "buildId": "asgdmgjmunay5jwc7u2epemnqq"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-annotations",
+          "version": {
+            "requires": "2.10.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ccd-sdk-types-0.3.2.jar",
+          "url": "ccd-sdk-types-0.3.2.jar",
+          "size": 29561,
+          "sha512": "2f195c3635fdc25af87204162cea40320ba6c428f89c0ab709d4245e1c691182b3e50087c29b5ac68fa524554f5b01fcb04ebba55841ecc38a05ebde2e9e907f",
+          "sha256": "632ac4a6d7482487a51a254117e0d2c1bb56ba5d660ff75d97f3253f6b8245a1",
+          "sha1": "d7eb16fef544f9bce83c30a5f0f9427af77dc6c7",
+          "md5": "33915afc576d02993590b121fe4641c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-annotations",
+          "version": {
+            "requires": "2.10.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ccd-sdk-types-0.3.2.jar",
+          "url": "ccd-sdk-types-0.3.2.jar",
+          "size": 29561,
+          "sha512": "2f195c3635fdc25af87204162cea40320ba6c428f89c0ab709d4245e1c691182b3e50087c29b5ac68fa524554f5b01fcb04ebba55841ecc38a05ebde2e9e907f",
+          "sha256": "632ac4a6d7482487a51a254117e0d2c1bb56ba5d660ff75d97f3253f6b8245a1",
+          "sha1": "d7eb16fef544f9bce83c30a5f0f9427af77dc6c7",
+          "md5": "33915afc576d02993590b121fe4641c"
+        }
+      ]
+    }
+  ]
+}
